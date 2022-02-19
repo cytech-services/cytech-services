@@ -331,7 +331,7 @@
 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
     <img
-        src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg"
+        src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/nextjs/nextjs-original.svg"
         alt="nextjs"
         width="80"
         height="80"
